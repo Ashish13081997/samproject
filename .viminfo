@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710082203,,"wq"
+|2,0,1710082992,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,76 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/index.html
-|4,48,2,0,1710082203,"~/index.html"
+'0  2  8  ~/index.html
+|4,48,2,8,1710082992,"~/index.html"
+'1  3  0  ~/home.html
+|4,49,3,0,1710082810,"~/home.html"
+'2  2  15  ~/index.html
+|4,50,2,15,1710082524,"~/index.html"
+'3  2  15  ~/index.html
+|4,51,2,15,1710082510,"~/index.html"
+'4  2  15  ~/index.html
+|4,52,2,15,1710082510,"~/index.html"
+'5  2  0  ~/index.html
+|4,53,2,0,1710082203,"~/index.html"
+'6  2  0  ~/index.html
+|4,54,2,0,1710082203,"~/index.html"
+'7  2  0  ~/index.html
+|4,55,2,0,1710082203,"~/index.html"
+'8  2  0  ~/index.html
+|4,56,2,0,1710082203,"~/index.html"
 
 # Jumplist (newest first):
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  3  0  ~/home.html
+|4,39,3,0,1710082810,"~/home.html"
+-'  3  0  ~/home.html
+|4,39,3,0,1710082810,"~/home.html"
+-'  1  0  ~/home.html
+|4,39,1,0,1710082802,"~/home.html"
+-'  1  0  ~/home.html
+|4,39,1,0,1710082802,"~/home.html"
+-'  2  15  ~/index.html
+|4,39,2,15,1710082524,"~/index.html"
+-'  2  15  ~/index.html
+|4,39,2,15,1710082524,"~/index.html"
+-'  2  15  ~/index.html
+|4,39,2,15,1710082510,"~/index.html"
+-'  2  15  ~/index.html
+|4,39,2,15,1710082510,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1710082203,"~/index.html"
+-'  2  0  ~/index.html
+|4,39,2,0,1710082203,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710082190,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1710082190,"~/index.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1710082202	0
-	"	2	0
-	^	2	0
-	.	1	18
+	*	1710082991	0
+	"	2	8
+	^	2	9
+	.	2	8
 	+	1	18
+	+	2	8
+
+> ~/home.html
+	*	1710082808	0
+	"	3	0
+	^	3	0
+	.	2	6
+	+	2	6
