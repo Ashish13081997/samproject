@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710084566,,"wq"
+|2,0,1710085233,,"wq"
 :q!
 |2,0,1710084195,,"q!"
 
@@ -27,36 +27,50 @@
 # Registers:
 
 # File marks:
-'0  2  4  ~/.gitignore
-|4,48,2,4,1710084566,"~/.gitignore"
-'1  4  16  ~/index.html
-|4,49,4,16,1710084336,"~/index.html"
-'2  1  8  ~/myfile
-|4,50,1,8,1710084242,"~/myfile"
-'3  1  0  ~/file.html
-|4,51,1,0,1710084195,"~/file.html"
-'4  4  26  ~/index.html
-|4,52,4,26,1710083965,"~/index.html"
-'5  2  8  ~/index.html
-|4,53,2,8,1710082992,"~/index.html"
+'0  1  8  ~/log.html
+|4,48,1,8,1710085233,"~/log.html"
+'1  2  4  ~/.gitignore
+|4,49,2,4,1710084566,"~/.gitignore"
+'2  4  16  ~/index.html
+|4,50,4,16,1710084336,"~/index.html"
+'3  1  8  ~/myfile
+|4,51,1,8,1710084242,"~/myfile"
+'4  1  0  ~/file.html
+|4,52,1,0,1710084195,"~/file.html"
+'5  4  26  ~/index.html
+|4,53,4,26,1710083965,"~/index.html"
 '6  2  8  ~/index.html
 |4,54,2,8,1710082992,"~/index.html"
 '7  2  8  ~/index.html
 |4,55,2,8,1710082992,"~/index.html"
 '8  2  8  ~/index.html
 |4,56,2,8,1710082992,"~/index.html"
-'9  3  0  ~/home.html
-|4,57,3,0,1710082810,"~/home.html"
+'9  2  8  ~/index.html
+|4,57,2,8,1710082992,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  8  ~/log.html
+|4,39,1,8,1710085233,"~/log.html"
 -'  2  4  ~/.gitignore
 |4,39,2,4,1710084566,"~/.gitignore"
+-'  2  4  ~/.gitignore
+|4,39,2,4,1710084566,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1710084546,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1710084546,"~/.gitignore"
 -'  4  16  ~/index.html
 |4,39,4,16,1710084336,"~/index.html"
 -'  4  16  ~/index.html
 |4,39,4,16,1710084336,"~/index.html"
+-'  4  16  ~/index.html
+|4,39,4,16,1710084336,"~/index.html"
+-'  4  16  ~/index.html
+|4,39,4,16,1710084336,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710084321,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1710084321,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1710084321,"~/index.html"
 -'  1  0  ~/index.html
@@ -69,6 +83,14 @@
 |4,39,1,8,1710084242,"~/myfile"
 -'  1  8  ~/myfile
 |4,39,1,8,1710084242,"~/myfile"
+-'  1  8  ~/myfile
+|4,39,1,8,1710084242,"~/myfile"
+-'  1  8  ~/myfile
+|4,39,1,8,1710084242,"~/myfile"
+-'  1  8  ~/myfile
+|4,39,1,8,1710084242,"~/myfile"
+-'  1  8  ~/myfile
+|4,39,1,8,1710084242,"~/myfile"
 -'  1  0  ~/file.html
 |4,39,1,0,1710084195,"~/file.html"
 -'  1  0  ~/file.html
@@ -85,6 +107,38 @@
 |4,39,1,0,1710084195,"~/file.html"
 -'  1  0  ~/file.html
 |4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  1  0  ~/file.html
+|4,39,1,0,1710084195,"~/file.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
+-'  4  26  ~/index.html
+|4,39,4,26,1710083965,"~/index.html"
 -'  4  26  ~/index.html
 |4,39,4,26,1710083965,"~/index.html"
 -'  4  26  ~/index.html
@@ -122,6 +176,38 @@
 -'  2  8  ~/index.html
 |4,39,2,8,1710083940,"~/index.html"
 -'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710083940,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
 |4,39,2,8,1710082992,"~/index.html"
 -'  2  8  ~/index.html
 |4,39,2,8,1710082992,"~/index.html"
@@ -137,96 +223,10 @@
 |4,39,2,8,1710082992,"~/index.html"
 -'  2  8  ~/index.html
 |4,39,2,8,1710082992,"~/index.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
--'  3  0  ~/home.html
-|4,39,3,0,1710082810,"~/home.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
+-'  2  8  ~/index.html
+|4,39,2,8,1710082992,"~/index.html"
 -'  3  0  ~/home.html
 |4,39,3,0,1710082810,"~/home.html"
 -'  3  0  ~/home.html
@@ -251,6 +251,13 @@
 |4,39,3,0,1710082810,"~/home.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/log.html
+	*	1710085232	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/.gitignore
 	*	1710084564	0
